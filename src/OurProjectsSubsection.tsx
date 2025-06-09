@@ -24,7 +24,7 @@ const projects = [
 export default function OurProjectsSubsection() {
   return (
     <div style={{ padding: "2rem", backgroundColor: "#f0f0f0" }}>
-      <h2 style={{ fontSize: "2rem", marginBottom: "1rem" }}>Our Projects</h2>
+      <h2 style={{ fontSize: "2rem", marginBottom: "1rem" }}>Nuestros Proyectos 🔥</h2>
       <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap" }}>
         {projects.map((project) => (
           <div
